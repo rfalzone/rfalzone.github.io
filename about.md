@@ -12,4 +12,4 @@ Avid board gamer and 3d printing enthusiast.  Excited about the world of data sc
 
 ### Contact me
 
-[email@domain.com](mailto:rantfalzone@gmail.com)
+[rantfalzone@gmail.com](mailto:rantfalzone@gmail.com)
